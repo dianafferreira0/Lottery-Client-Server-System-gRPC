@@ -1,0 +1,44 @@
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\ClienteUtilizador.exe
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\ClienteUtilizador.deps.json
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\ClienteUtilizador.runtimeconfig.json
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\ClienteUtilizador.runtimeconfig.dev.json
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\ClienteUtilizador.dll
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\ClienteUtilizador.pdb
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.FormUtilizador.resources
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.csproj.GenerateResource.cache
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.AssemblyInfoInputs.cache
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.AssemblyInfo.cs
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.csproj.CoreCompileInputs.cache
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.dll
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.pdb
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.genruntimeconfig.cache
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.FormApostar.resources
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.csproj.CopyComplete
+C:\Users\soare\Desktop\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.csproj.AssemblyReference.cache
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\ClienteUtilizador.exe
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\ClienteUtilizador.deps.json
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\ClienteUtilizador.runtimeconfig.json
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\ClienteUtilizador.runtimeconfig.dev.json
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\ClienteUtilizador.dll
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\ClienteUtilizador.pdb
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.csproj.AssemblyReference.cache
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.FormApostar.resources
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.FormUtilizador.resources
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.csproj.GenerateResource.cache
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.AssemblyInfoInputs.cache
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.AssemblyInfo.cs
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.csproj.CoreCompileInputs.cache
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.csproj.CopyComplete
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.dll
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.pdb
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteUtilizador\obj\Debug\netcoreapp3.1\ClienteUtilizador.genruntimeconfig.cache

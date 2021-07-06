@@ -1,0 +1,41 @@
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\ClienteGestor.exe
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\ClienteGestor.deps.json
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\ClienteGestor.runtimeconfig.json
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\ClienteGestor.runtimeconfig.dev.json
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\ClienteGestor.dll
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\ClienteGestor.pdb
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.FormGestor.resources
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.csproj.GenerateResource.cache
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.AssemblyInfoInputs.cache
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.AssemblyInfo.cs
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.csproj.CoreCompileInputs.cache
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.dll
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.pdb
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.genruntimeconfig.cache
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\soare\Desktop\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.csproj.CopyComplete
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\ClienteGestor.exe
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\ClienteGestor.deps.json
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\ClienteGestor.runtimeconfig.json
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\ClienteGestor.runtimeconfig.dev.json
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\ClienteGestor.dll
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\ClienteGestor.pdb
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.csproj.AssemblyReference.cache
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.FormGestor.resources
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.csproj.GenerateResource.cache
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.AssemblyInfoInputs.cache
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.AssemblyInfo.cs
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.csproj.CoreCompileInputs.cache
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.csproj.CopyComplete
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.dll
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.pdb
+C:\Users\Win 10\OneDrive - Universidade de Tras-os-Montes e Alto Douro\Trabalho Prático SD\trabalho2\SDServidor\ClienteGestor\obj\Debug\netcoreapp3.1\ClienteGestor.genruntimeconfig.cache

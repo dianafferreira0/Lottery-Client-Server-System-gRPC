@@ -1,0 +1,78 @@
+syntax = "proto3";
+
+option csharp_namespace = "SDServidor";
+
+package greet;
+
+// The greeting service definition.
+service Greeter {
+  //Cliente para Utilizadores
+    rpc ApostaRegisto (ApostaPedido) returns (Resposta);
+    rpc ApostaLista (ApostaListaPedido) returns (ListaA);
+
+    //Cliente para Administração  do sistema
+    rpc UtilizadorLista (ListaUtilizadorPedido) returns (ListaU);
+    rpc ApostaGuadar (PedidoGuardar) returns (Resposta);
+
+    //Cliente para Gestão do Sorteio
+    rpc ChaveWinRegisto (ChaveWin) returns (Resposta);
+    rpc ApostaWinLista (ApostaWinPedido) returns (ListaAWin);
+}
+
+//Cada aposta deve conter, pelo menos, a identificação do utilizador, a chave e a data de aposta
+message ApostaM { 
+    string nome_utilizador = 1;
+    string chave = 2;
+    string data = 3;
+}
+
+message Resposta {
+    bool sucesso = 1;
+}
+
+//Registar Aposta
+message ApostaPedido {
+    ApostaM aposta = 1; //Utilizando "message Aposta"
+}
+
+//Lista de Apostas
+message ApostaListaPedido {
+   string nome_utilizador = 1; 
+   //Nome do utilizador do qual se pretende ver as apostas feitas. Se nenhum utiliador for definido, devolve as apostas todas
+}                               
+
+//Lista de Apostas
+message ListaA {
+    repeated ApostaM aposta = 1;
+}
+
+//Lista de Utilizadores
+message ListaUtilizadorPedido {   
+    //Sem campos
+}
+
+//Devolve a lista dos utilizadores que estão registados
+message ListaU {    
+    repeated string utilizadores = 1;
+}
+
+//Guardar Aposta
+message PedidoGuardar {    
+    //Sem campos
+}
+
+//Registar Chave Vencedora
+message ChaveWin {
+    string chave_vencedora = 1;
+}
+
+//Lista de Apostas Vencedoras
+message ApostaWinPedido { 
+    //Sem campos
+}
+
+//Lista de apostas que contêm a chave vencedora
+message ListaAWin {    
+    repeated ApostaM aposta_vencedora = 1;
+}
+
